@@ -58,7 +58,7 @@ def data_result(links):
              hrefImg = img.find('a').get('href')
              imgs.append(domain + hrefImg)
          price = soup.find('div', class_='price').text
-        
+
          data[title] = {
             "name": title,
             "price": price,
@@ -71,8 +71,8 @@ getProduct('http://malinabonita.ru/catalog/')
 
 
 
-# Запись в файл 
-with open('result.json', 'w', encoding='utf-8') as f:
+# Запись в файл
+with open('./public/result.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
 driver.quit()
