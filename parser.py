@@ -22,7 +22,7 @@ def getProduct(url):
     soup = bs(source_data, 'lxml')
     global count
     count +=1
-    if count < 12:
+    if count < 16:
         links(soup, url)
     else:
         data_result(itemLinks)
@@ -53,6 +53,7 @@ def data_result(links):
          soup = bs(source_data, 'lxml')
          title = soup.find('h3').text
          imgBox = soup.find_all('div', class_='preview relative')
+         description = soup.find('div', class_='description').text
          imgs = []
          for img in imgBox:
              hrefImg = img.find('a').get('href')
@@ -62,7 +63,8 @@ def data_result(links):
          data[title] = {
             "name": title,
             "price": price,
-            "img_paths": imgs
+            "img_paths": imgs,
+             "description": description
          }
 
 

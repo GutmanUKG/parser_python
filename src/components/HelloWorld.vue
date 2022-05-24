@@ -1,15 +1,16 @@
 <template>
   <div class="container">
-    <Card_list/>
+    <div>Header</div>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
 
-import Card_list from "@/components/card_list";
+
 export default {
   name: 'HelloWorld',
-  components: {Card_list},
+  components: {},
   props: {
     msg: String
   },
@@ -19,7 +20,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
   .container{
-    max-width: 1200px;
+    max-width: 1366px;
     width: 100%;
     margin: 0 auto;
   }
