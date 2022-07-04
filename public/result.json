@@ -1,6 +1,7 @@
 {
     "Платье-мини \"Лолита\", голубой": {
         "name": "Платье-мини \"Лолита\", голубой",
+        "en_name": "Plat'e-mini__Lolita__goluboj",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1649938120854.jpg",
@@ -16,6 +17,7 @@
     },
     "Синее боди на бретелях": {
         "name": "Синее боди на бретелях",
+        "en_name": "Sinee_bodi_na_breteljah",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649936773039.jpg",
@@ -28,6 +30,7 @@
     },
     "Розовое боди на бретелях": {
         "name": "Розовое боди на бретелях",
+        "en_name": "Rozovoe_bodi_na_breteljah",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649936620082.jpg",
@@ -40,6 +43,7 @@
     },
     "Розовое боди с кольцом \"Ронда\"": {
         "name": "Розовое боди с кольцом \"Ронда\"",
+        "en_name": "Rozovoe_bodi_s_kol'tsom__Ronda_",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1649951872170.jpg",
@@ -58,6 +62,7 @@
     },
     "Платье с принтом \"Ракушки\"": {
         "name": "Платье с принтом \"Ракушки\"",
+        "en_name": "Plat'e_s_printom__Rakushki_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649692770722.jpg",
@@ -70,6 +75,7 @@
     },
     "Бежевые шорты со складками": {
         "name": "Бежевые шорты со складками",
+        "en_name": "Bezhevye_shorty_so_skladkami",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649693538531.jpg",
@@ -83,6 +89,7 @@
     },
     "Твидовый сарафан в клетку, розовый": {
         "name": "Твидовый сарафан в клетку, розовый",
+        "en_name": "Tvidovyj_sarafan_v_kletku_rozovyj",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649687779775.jpg",
@@ -96,6 +103,7 @@
     },
     "Белый костюм-тройка \"Яппи\"": {
         "name": "Белый костюм-тройка \"Яппи\"",
+        "en_name": "Belyj_kostjum-trojka__Jappi_",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1596461624349.jpg",
@@ -119,6 +127,7 @@
     },
     "Блуза \"Крем-брюле\"": {
         "name": "Блуза \"Крем-брюле\"",
+        "en_name": "Bluza__Krem-brjule_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643053556885.jpeg",
@@ -132,6 +141,7 @@
     },
     "Блуза с накладными карманами": {
         "name": "Блуза с накладными карманами",
+        "en_name": "Bluza_s_nakladnymi_karmanami",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643052756836.jpeg",
@@ -144,6 +154,7 @@
     },
     "Рубашка из эко-кожи с декором": {
         "name": "Рубашка из эко-кожи с декором",
+        "en_name": "Rubashka_iz_eko-kozhi_s_dekorom",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1649079761679.jpeg",
@@ -157,6 +168,7 @@
     },
     "Жакет и жилетка, изумруд": {
         "name": "Жакет и жилетка, изумруд",
+        "en_name": "Zhaket_i_zhiletka_izumrud",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1647462102779.jpg",
@@ -176,6 +188,7 @@
     },
     "Белая мини-юбка из эко-кожи": {
         "name": "Белая мини-юбка из эко-кожи",
+        "en_name": "Belaja_mini-jubka_iz_eko-kozhi",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648813178762.jpg",
@@ -188,6 +201,7 @@
     },
     "Голубое боди с фигурным вырезом": {
         "name": "Голубое боди с фигурным вырезом",
+        "en_name": "Goluboe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648812941303.jpg",
@@ -201,6 +215,7 @@
     },
     "Коралловое платье-миди \"Биарицц\"": {
         "name": "Коралловое платье-миди \"Биарицц\"",
+        "en_name": "Korallovoe_plat'e-midi__Biaritsts_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1648812885950.jpg",
@@ -215,6 +230,7 @@
     },
     "Красная блуза из органзы с бантом": {
         "name": "Красная блуза из органзы с бантом",
+        "en_name": "Krasnaja_bluza_iz_organzy_s_bantom",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648812160055.jpeg",
@@ -227,6 +243,7 @@
     },
     "Изумрудное платье \"Джуди\" с замком": {
         "name": "Изумрудное платье \"Джуди\" с замком",
+        "en_name": "Izumrudnoe_plat'e__Dzhudi__s_zamkom",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1648473717813.jpeg",
@@ -241,6 +258,7 @@
     },
     "Белое платье-бюстье \"Брюссель\"": {
         "name": "Белое платье-бюстье \"Брюссель\"",
+        "en_name": "Beloe_plat'e-bjust'e__Brjussel'_",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1644412314241.jpeg",
@@ -268,6 +286,7 @@
     },
     "Голубое платье с замком «Джуди»": {
         "name": "Голубое платье с замком «Джуди»",
+        "en_name": "Goluboe_plat'e_s_zamkom_«Dzhudi»",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1647964698227.jpg",
@@ -298,6 +317,7 @@
     },
     "Белое платье-футляр \"Шейла\"": {
         "name": "Белое платье-футляр \"Шейла\"",
+        "en_name": "Beloe_plat'e-futljar__Shejla_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1648474064374.jpg",
@@ -316,6 +336,7 @@
     },
     "Пиджачное ворсовое пальто с карманами": {
         "name": "Пиджачное ворсовое пальто с карманами",
+        "en_name": "Pidzhachnoe_vorsovoe_pal'to_s_karmanami",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648382247446.jpg",
@@ -329,6 +350,7 @@
     },
     "Пальто со шлицами, какао": {
         "name": "Пальто со шлицами, какао",
+        "en_name": "Pal'to_so_shlitsami_kakao",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1648381925568.jpg",
@@ -344,6 +366,7 @@
     },
     "Пальто со шлицами \"Кэмэл\"": {
         "name": "Пальто со шлицами \"Кэмэл\"",
+        "en_name": "Pal'to_so_shlitsami__Kemel_",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648381671398.jpg",
@@ -356,6 +379,7 @@
     },
     "Удлиненное пальто в клетку с карманами": {
         "name": "Удлиненное пальто в клетку с карманами",
+        "en_name": "Udlinennoe_pal'to_v_kletku_s_karmanami",
         "price": "17900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1648381465385.jpeg",
@@ -370,6 +394,7 @@
     },
     "Синее пальто Тэдди": {
         "name": "Синее пальто Тэдди",
+        "en_name": "Sinee_pal'to_Teddi",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1646861071721.jpg",
@@ -393,6 +418,7 @@
     },
     "Пудровое ворсовое пальто-миди": {
         "name": "Пудровое ворсовое пальто-миди",
+        "en_name": "Pudrovoe_vorsovoe_pal'to-midi",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648289188878.jpg",
@@ -406,6 +432,7 @@
     },
     "Голубой комплект-двойка \"Эверт\"": {
         "name": "Голубой комплект-двойка \"Эверт\"",
+        "en_name": "Goluboj_komplekt-dvojka__Evert_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648288916997.jpg",
@@ -419,6 +446,7 @@
     },
     "Желтое укороченное пальто Тэдди": {
         "name": "Желтое укороченное пальто Тэдди",
+        "en_name": "Zheltoe_ukorochennoe_pal'to_Teddi",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1647264657451.jpg",
@@ -441,6 +469,7 @@
     },
     "Красное платье в пол \"Маккена\"": {
         "name": "Красное платье в пол \"Маккена\"",
+        "en_name": "Krasnoe_plat'e_v_pol__Makkena_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1647513326073.jpg",
@@ -455,6 +484,7 @@
     },
     "Белый жакет с пажами": {
         "name": "Белый жакет с пажами",
+        "en_name": "Belyj_zhaket_s_pazhami",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1647512909857.jpg",
@@ -477,6 +507,7 @@
     },
     "Однобортный жакет, фуксия": {
         "name": "Однобортный жакет, фуксия",
+        "en_name": "Odnobortnyj_zhaket_fuksija",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1647455698987.jpg",
@@ -504,6 +535,7 @@
     },
     "Синий костюм в клетку": {
         "name": "Синий костюм в клетку",
+        "en_name": "Sinij_kostjum_v_kletku",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1645188760998.jpeg",
@@ -531,6 +563,7 @@
     },
     "Платье-мини \"Шерил джинс\", хаки": {
         "name": "Платье-мини \"Шерил джинс\", хаки",
+        "en_name": "Plat'e-mini__Sheril_dzhins__haki",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648208681486.jpeg",
@@ -543,6 +576,7 @@
     },
     "Белая блуза с воротником \"Шарлотта\"": {
         "name": "Белая блуза с воротником \"Шарлотта\"",
+        "en_name": "Belaja_bluza_s_vorotnikom__Sharlotta_",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648208190527.jpeg",
@@ -556,6 +590,7 @@
     },
     "Костюм-двойка \"Мейди\" юбка и жакет": {
         "name": "Костюм-двойка \"Мейди\" юбка и жакет",
+        "en_name": "Kostjum-dvojka__Mejdi__jubka_i_zhaket",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1645878592930.jpg",
@@ -586,6 +621,7 @@
     },
     "Твидовый костюм с юбкой \"Вилма\"": {
         "name": "Твидовый костюм с юбкой \"Вилма\"",
+        "en_name": "Tvidovyj_kostjum_s_jubkoj__Vilma_",
         "price": "15500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1648208959414.jpeg",
@@ -599,6 +635,7 @@
     },
     "Желтое двубортное пальто": {
         "name": "Желтое двубортное пальто",
+        "en_name": "Zheltoe_dvubortnoe_pal'to",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1647961071795.jpg",
@@ -614,6 +651,7 @@
     },
     "Пальто в клетку с объемным рукавом": {
         "name": "Пальто в клетку с объемным рукавом",
+        "en_name": "Pal'to_v_kletku_s_ob'emnym_rukavom",
         "price": "17500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1647509901571.jpg",
@@ -644,6 +682,7 @@
     },
     "Зеленое пальто": {
         "name": "Зеленое пальто",
+        "en_name": "Zelenoe_pal'to",
         "price": "21900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1647288549920.jpeg",
@@ -670,6 +709,7 @@
     },
     "Трикотажный костюм \"Мэрин\"": {
         "name": "Трикотажный костюм \"Мэрин\"",
+        "en_name": "Trikotazhnyj_kostjum__Merin_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647961762780.jpeg",
@@ -682,6 +722,7 @@
     },
     "Белое пальто-миди со шлицами": {
         "name": "Белое пальто-миди со шлицами",
+        "en_name": "Beloe_pal'to-midi_so_shlitsami",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1647945810841.jpg",
@@ -705,6 +746,7 @@
     },
     "Синяя блуза \"Челси\"": {
         "name": "Синяя блуза \"Челси\"",
+        "en_name": "Sinjaja_bluza__Chelsi_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645188508623.jpg",
@@ -723,6 +765,7 @@
     },
     "Голубое укороченное пальто Тэдди": {
         "name": "Голубое укороченное пальто Тэдди",
+        "en_name": "Goluboe_ukorochennoe_pal'to_Teddi",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1647944975113.jpg",
@@ -737,6 +780,7 @@
     },
     "Пальто-пиджак в клетку": {
         "name": "Пальто-пиджак в клетку",
+        "en_name": "Pal'to-pidzhak_v_kletku",
         "price": "15500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1647945030242.jpg",
@@ -751,6 +795,7 @@
     },
     "Серый комплект юбка и кроп-топ": {
         "name": "Серый комплект юбка и кроп-топ",
+        "en_name": "Seryj_komplekt_jubka_i_krop-top",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1644867631344.jpg",
@@ -778,6 +823,7 @@
     },
     "Комплект Оранж платье и кардиган": {
         "name": "Комплект Оранж платье и кардиган",
+        "en_name": "Komplekt_Oranzh_plat'e_i_kardigan",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1647897084493.jpeg",
@@ -793,6 +839,7 @@
     },
     "Платье-миди с запахом \"Грас\"": {
         "name": "Платье-миди с запахом \"Грас\"",
+        "en_name": "Plat'e-midi_s_zapahom__Gras_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1647896887835.jpg",
@@ -816,6 +863,7 @@
     },
     "Трикотажное платье изумрудно-коралловое": {
         "name": "Трикотажное платье изумрудно-коралловое",
+        "en_name": "Trikotazhnoe_plat'e_izumrudno-korallovoe",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647895371320.jpeg",
@@ -829,6 +877,7 @@
     },
     "Красное платье с бантом \"Коллин\"": {
         "name": "Красное платье с бантом \"Коллин\"",
+        "en_name": "Krasnoe_plat'e_s_bantom__Kollin_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1647599528557.jpg",
@@ -844,6 +893,7 @@
     },
     "Белое платье-мини с перышками \"Линдси\"": {
         "name": "Белое платье-мини с перышками \"Линдси\"",
+        "en_name": "Beloe_plat'e-mini_s_peryshkami__Lindsi_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1647600823732.jpg",
@@ -858,6 +908,7 @@
     },
     "Черное платье-комбинация с кружевом": {
         "name": "Черное платье-комбинация с кружевом",
+        "en_name": "Chernoe_plat'e-kombinatsija_s_kruzhevom",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1645878381119.jpg",
@@ -888,6 +939,7 @@
     },
     "Голубое укороченное пальто \"Сан-Ремо\"": {
         "name": "Голубое укороченное пальто \"Сан-Ремо\"",
+        "en_name": "Goluboe_ukorochennoe_pal'to__San-Remo_",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647454943799.jpg",
@@ -900,6 +952,7 @@
     },
     "Белый джемпер \"Ромбы\"": {
         "name": "Белый джемпер \"Ромбы\"",
+        "en_name": "Belyj_dzhemper__Romby_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647454468469.jpg",
@@ -913,6 +966,7 @@
     },
     "Желтое укороченное пальто \"Сан-Ремо\"": {
         "name": "Желтое укороченное пальто \"Сан-Ремо\"",
+        "en_name": "Zheltoe_ukorochennoe_pal'to__San-Remo_",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647453830466.jpg",
@@ -925,6 +979,7 @@
     },
     "Укороченное пальто Сан-Ремо, изумруд": {
         "name": "Укороченное пальто Сан-Ремо, изумруд",
+        "en_name": "Ukorochennoe_pal'to_San-Remo_izumrud",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647435595064.jpeg",
@@ -937,6 +992,7 @@
     },
     "Джемпер «Ромбы», сливочный": {
         "name": "Джемпер «Ромбы», сливочный",
+        "en_name": "Dzhemper_«Romby»_slivochnyj",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647436048775.jpeg",
@@ -949,6 +1005,7 @@
     },
     "Лиловое платье миди \"Джуди\"": {
         "name": "Лиловое платье миди \"Джуди\"",
+        "en_name": "Lilovoe_plat'e_midi__Dzhudi_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1645820393307.jpg",
@@ -975,6 +1032,7 @@
     },
     "Пальто голубого цвета со шлицами": {
         "name": "Пальто голубого цвета со шлицами",
+        "en_name": "Pal'to_golubogo_tsveta_so_shlitsami",
         "price": "18900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647265274344.jpg",
@@ -988,6 +1046,7 @@
     },
     "Пудровое пальто Тэдди": {
         "name": "Пудровое пальто Тэдди",
+        "en_name": "Pudrovoe_pal'to_Teddi",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1647264299908.jpg",
@@ -1000,6 +1059,7 @@
     },
     "Платье с кружевной спинкой \"Блэкберн\"": {
         "name": "Платье с кружевной спинкой \"Блэкберн\"",
+        "en_name": "Plat'e_s_kruzhevnoj_spinkoj__Blekbern_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1648289801350.jpg",
@@ -1015,6 +1075,7 @@
     },
     "Платье-мини с бахромой \"Нисса\", тиффани": {
         "name": "Платье-мини с бахромой \"Нисса\", тиффани",
+        "en_name": "Plat'e-mini_s_bahromoj__Nissa__tiffani",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1646862654571.jpg",
@@ -1028,6 +1089,7 @@
     },
     "Черный сарафан с кружевом \"Бейни\"": {
         "name": "Черный сарафан с кружевом \"Бейни\"",
+        "en_name": "Chernyj_sarafan_s_kruzhevom__Bejni_",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1646862325210.jpg",
@@ -1047,6 +1109,7 @@
     },
     "Черная блуза-боди с объемным рукавом": {
         "name": "Черная блуза-боди с объемным рукавом",
+        "en_name": "Chernaja_bluza-bodi_s_ob'emnym_rukavom",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1646861930320.jpg",
@@ -1069,6 +1132,7 @@
     },
     "Коктейльное платье \"Сейлор\", фуксия": {
         "name": "Коктейльное платье \"Сейлор\", фуксия",
+        "en_name": "Koktejl'noe_plat'e__Sejlor__fuksija",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1644411828144.jpeg",
@@ -1087,6 +1151,7 @@
     },
     "Лимонный джемпер \"Ромбы\"": {
         "name": "Лимонный джемпер \"Ромбы\"",
+        "en_name": "Limonnyj_dzhemper__Romby_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1646084329171.jpeg",
@@ -1100,6 +1165,7 @@
     },
     "Белое пальто пиджачного кроя": {
         "name": "Белое пальто пиджачного кроя",
+        "en_name": "Beloe_pal'to_pidzhachnogo_kroja",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1646083943324.jpeg",
@@ -1112,6 +1178,7 @@
     },
     "Платье-миди \"Фелисия\"": {
         "name": "Платье-миди \"Фелисия\"",
+        "en_name": "Plat'e-midi__Felisija_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1616165875132.jpg",
@@ -1135,6 +1202,7 @@
     },
     "Белое платье с бантом \"Коллин\"": {
         "name": "Белое платье с бантом \"Коллин\"",
+        "en_name": "Beloe_plat'e_s_bantom__Kollin_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1644862021269.jpg",
@@ -1150,6 +1218,7 @@
     },
     "Черное платье с бантом \"Коллин\"": {
         "name": "Черное платье с бантом \"Коллин\"",
+        "en_name": "Chernoe_plat'e_s_bantom__Kollin_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1646082353453.jpg",
@@ -1163,6 +1232,7 @@
     },
     "Коктейльные платья MALINA Bonita": {
         "name": "Коктейльные платья MALINA Bonita",
+        "en_name": "Koktejl'nye_plat'ja_MALINA_Bonita",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1646081994576.jpg",
@@ -1175,6 +1245,7 @@
     },
     "Джемпер сливочный с воротником": {
         "name": "Джемпер сливочный с воротником",
+        "en_name": "Dzhemper_slivochnyj_s_vorotnikom",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1644328722766.jpeg",
@@ -1189,6 +1260,7 @@
     },
     "Синяя блуза из органзы с бантом": {
         "name": "Синяя блуза из органзы с бантом",
+        "en_name": "Sinjaja_bluza_iz_organzy_s_bantom",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1645962372008.jpg",
@@ -1202,6 +1274,7 @@
     },
     "Оливковый кардиган с мехом": {
         "name": "Оливковый кардиган с мехом",
+        "en_name": "Olivkovyj_kardigan_s_mehom",
         "price": "24900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1645957437686.jpeg",
@@ -1214,6 +1287,7 @@
     },
     "Горчичное боди с фигурным вырезом": {
         "name": "Горчичное боди с фигурным вырезом",
+        "en_name": "Gorchichnoe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1645878738563.jpeg",
@@ -1227,6 +1301,7 @@
     },
     "Оранжевый топ со сборками": {
         "name": "Оранжевый топ со сборками",
+        "en_name": "Oranzhevyj_top_so_sborkami",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1645820458273.jpg",
@@ -1241,6 +1316,7 @@
     },
     "Голубая джинсовая куртка": {
         "name": "Голубая джинсовая куртка",
+        "en_name": "Golubaja_dzhinsovaja_kurtka",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645819204131.jpg",
@@ -1256,6 +1332,7 @@
     },
     "Комплект сарафан и жакет": {
         "name": "Комплект сарафан и жакет",
+        "en_name": "Komplekt_sarafan_i_zhaket",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645819816583.jpg",
@@ -1274,6 +1351,7 @@
     },
     "Молочный джемпер с пуговицами": {
         "name": "Молочный джемпер с пуговицами",
+        "en_name": "Molochnyj_dzhemper_s_pugovitsami",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1645794805534.jpeg",
@@ -1287,6 +1365,7 @@
     },
     "Черная футболка с ажурным воротником": {
         "name": "Черная футболка с ажурным воротником",
+        "en_name": "Chernaja_futbolka_s_azhurnym_vorotnikom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634475831472.jpeg",
@@ -1300,6 +1379,7 @@
     },
     "Костюм-тройка \"Мексика\"": {
         "name": "Костюм-тройка \"Мексика\"",
+        "en_name": "Kostjum-trojka__Meksika_",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1645794152836.jpg",
@@ -1323,6 +1403,7 @@
     },
     "Белая блуза-боди \"Бонни\" с рукавом": {
         "name": "Белая блуза-боди \"Бонни\" с рукавом",
+        "en_name": "Belaja_bluza-bodi__Bonni__s_rukavom",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645618434426.jpg",
@@ -1341,6 +1422,7 @@
     },
     "Черные широкие брюки": {
         "name": "Черные широкие брюки",
+        "en_name": "Chernye_shirokie_brjuki",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639319246564.jpeg",
@@ -1356,6 +1438,7 @@
     },
     "Черная юбка с разрезом": {
         "name": "Черная юбка с разрезом",
+        "en_name": "Chernaja_jubka_s_razrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1645617969837.jpg",
@@ -1370,6 +1453,7 @@
     },
     "Блуза с кокеткой \"Сарсель\"": {
         "name": "Блуза с кокеткой \"Сарсель\"",
+        "en_name": "Bluza_s_koketkoj__Sarsel'_",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1645618194513.jpg",
@@ -1389,6 +1473,7 @@
     },
     "Пудровое боди с фигурным вырезом": {
         "name": "Пудровое боди с фигурным вырезом",
+        "en_name": "Pudrovoe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643379463746.jpeg",
@@ -1402,6 +1487,7 @@
     },
     "Бежевое боди с фигурным вырезом": {
         "name": "Бежевое боди с фигурным вырезом",
+        "en_name": "Bezhevoe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1643379867141.jpeg",
@@ -1417,6 +1503,7 @@
     },
     "Изумрудная водолазка": {
         "name": "Изумрудная водолазка",
+        "en_name": "Izumrudnaja_vodolazka",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643122364919.jpeg",
@@ -1430,6 +1517,7 @@
     },
     "Костюм-тройка": {
         "name": "Костюм-тройка",
+        "en_name": "Kostjum-trojka",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1643122148844.jpeg",
@@ -1452,6 +1540,7 @@
     },
     "Укороченный белый кардиган": {
         "name": "Укороченный белый кардиган",
+        "en_name": "Ukorochennyj_belyj_kardigan",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1645096843190.jpg",
@@ -1465,6 +1554,7 @@
     },
     "Фиалковое боди": {
         "name": "Фиалковое боди",
+        "en_name": "Fialkovoe_bodi",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645096711311.jpg",
@@ -1480,6 +1570,7 @@
     },
     "Белые брюки-кюлоты из эко-кожи": {
         "name": "Белые брюки-кюлоты из эко-кожи",
+        "en_name": "Belye_brjuki-kjuloty_iz_eko-kozhi",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1645096527794.jpeg",
@@ -1495,6 +1586,7 @@
     },
     "Платье \"Мэрин\"": {
         "name": "Платье \"Мэрин\"",
+        "en_name": "Plat'e__Merin_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1644614245600.jpeg",
@@ -1509,6 +1601,7 @@
     },
     "Бежевые кюлоты из эко-кожи": {
         "name": "Бежевые кюлоты из эко-кожи",
+        "en_name": "Bezhevye_kjuloty_iz_eko-kozhi",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1645189162215.jpg",
@@ -1523,6 +1616,7 @@
     },
     "Белое платье со съемной юбкой": {
         "name": "Белое платье со съемной юбкой",
+        "en_name": "Beloe_plat'e_so_s'emnoj_jubkoj",
         "price": "27000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1623407608694.jpg",
@@ -1553,6 +1647,7 @@
     },
     "Красный костюм-двойка \"Мюнхен\"": {
         "name": "Красный костюм-двойка \"Мюнхен\"",
+        "en_name": "Krasnyj_kostjum-dvojka__Mjunhen_",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1645096368458.jpg",
@@ -1575,6 +1670,7 @@
     },
     "Красное платье-футляр \"Джуди\"": {
         "name": "Красное платье-футляр \"Джуди\"",
+        "en_name": "Krasnoe_plat'e-futljar__Dzhudi_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644866871615.jpg",
@@ -1588,6 +1684,7 @@
     },
     "Красное платье-бюстье со стразами": {
         "name": "Красное платье-бюстье со стразами",
+        "en_name": "Krasnoe_plat'e-bjust'e_so_strazami",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1644862597981.jpg",
@@ -1603,6 +1700,7 @@
     },
     "Сливовое платье-футляр \"Харли\"": {
         "name": "Сливовое платье-футляр \"Харли\"",
+        "en_name": "Slivovoe_plat'e-futljar__Harli_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644862099729.jpg",
@@ -1616,6 +1714,7 @@
     },
     "Белое платье-мини с бахромой \"Шанти\"": {
         "name": "Белое платье-мини с бахромой \"Шанти\"",
+        "en_name": "Beloe_plat'e-mini_s_bahromoj__Shanti_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1644861507255.jpg",
@@ -1643,6 +1742,7 @@
     },
     "Кожаная юбка \"Альба\", графит": {
         "name": "Кожаная юбка \"Альба\", графит",
+        "en_name": "Kozhanaja_jubka__Al'ba__grafit",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644590364983.jpg",
@@ -1655,6 +1755,7 @@
     },
     "Белая блуза со шнуровкой": {
         "name": "Белая блуза со шнуровкой",
+        "en_name": "Belaja_bluza_so_shnurovkoj",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644590276577.jpg",
@@ -1668,6 +1769,7 @@
     },
     "Черное платье-миди \"Биарицц\"": {
         "name": "Черное платье-миди \"Биарицц\"",
+        "en_name": "Chernoe_plat'e-midi__Biaritsts_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644590494472.jpg",
@@ -1681,6 +1783,7 @@
     },
     "Черно-белый жакет \"Римини\"": {
         "name": "Черно-белый жакет \"Римини\"",
+        "en_name": "Cherno-belyj_zhaket__Rimini_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644590646537.jpg",
@@ -1693,6 +1796,7 @@
     },
     "Белое платье-пиджак с поясом": {
         "name": "Белое платье-пиджак с поясом",
+        "en_name": "Beloe_plat'e-pidzhak_s_pojasom",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1644590180782.jpg",
@@ -1708,6 +1812,7 @@
     },
     "Белое платье с блеском \"Белуччи\"": {
         "name": "Белое платье с блеском \"Белуччи\"",
+        "en_name": "Beloe_plat'e_s_bleskom__Beluchchi_",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644520677432.jpg",
@@ -1721,6 +1826,7 @@
     },
     "Платье-кимоно с кружевной отделкой": {
         "name": "Платье-кимоно с кружевной отделкой",
+        "en_name": "Plat'e-kimono_s_kruzhevnoj_otdelkoj",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1635850347802.jpeg",
@@ -1751,6 +1857,7 @@
     },
     "Кремовая юбка \"Альба\" из эко-кожи": {
         "name": "Кремовая юбка \"Альба\" из эко-кожи",
+        "en_name": "Kremovaja_jubka__Al'ba__iz_eko-kozhi",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644516369951.jpg",
@@ -1763,6 +1870,7 @@
     },
     "Черное платье-пиджак \"Берри\"": {
         "name": "Черное платье-пиджак \"Берри\"",
+        "en_name": "Chernoe_plat'e-pidzhak__Berri_",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1644516245312.jpg",
@@ -1785,6 +1893,7 @@
     },
     "Черное платье-пиджак \"Тильда\"": {
         "name": "Черное платье-пиджак \"Тильда\"",
+        "en_name": "Chernoe_plat'e-pidzhak__Til'da_",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644412499212.jpeg",
@@ -1797,6 +1906,7 @@
     },
     "Черные кожаные брюки-кюлоты": {
         "name": "Черные кожаные брюки-кюлоты",
+        "en_name": "Chernye_kozhanye_brjuki-kjuloty",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1612779458784.jpg",
@@ -1815,6 +1925,7 @@
     },
     "Кроп-топ из эко-кожи": {
         "name": "Кроп-топ из эко-кожи",
+        "en_name": "Krop-top_iz_eko-kozhi",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1614958095371.jpg",
@@ -1829,6 +1940,7 @@
     },
     "Белый кожаный кроп-топ": {
         "name": "Белый кожаный кроп-топ",
+        "en_name": "Belyj_kozhanyj_krop-top",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1644409495135.jpeg",
@@ -1843,6 +1955,7 @@
     },
     "Черная кожаная юбка-тюльпан": {
         "name": "Черная кожаная юбка-тюльпан",
+        "en_name": "Chernaja_kozhanaja_jubka-tjul'pan",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products/1f394567e9e16a7276d331ad214daa87.jpeg",
@@ -1857,6 +1970,7 @@
     },
     "Черное платье-пиджак": {
         "name": "Черное платье-пиджак",
+        "en_name": "Chernoe_plat'e-pidzhak",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1644325527866.jpeg",
@@ -1871,6 +1985,7 @@
     },
     "Водолазка из вискозы \"Фисташка\"": {
         "name": "Водолазка из вискозы \"Фисташка\"",
+        "en_name": "Vodolazka_iz_viskozy__Fistashka_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1644325701598.jpg",
@@ -1886,6 +2001,7 @@
     },
     "Серые шорты из эко-кожи": {
         "name": "Серые шорты из эко-кожи",
+        "en_name": "Serye_shorty_iz_eko-kozhi",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644324906286.jpeg",
@@ -1898,6 +2014,7 @@
     },
     "Блуза с кокеткой \"Африка\"": {
         "name": "Блуза с кокеткой \"Африка\"",
+        "en_name": "Bluza_s_koketkoj__Afrika_",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644324640049.jpeg",
@@ -1910,6 +2027,7 @@
     },
     "Пудровый джемпер \"Ромбы\"": {
         "name": "Пудровый джемпер \"Ромбы\"",
+        "en_name": "Pudrovyj_dzhemper__Romby_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644235337532.jpeg",
@@ -1922,6 +2040,7 @@
     },
     "Голубая юбка \"Альба\" из эко-кожи": {
         "name": "Голубая юбка \"Альба\" из эко-кожи",
+        "en_name": "Golubaja_jubka__Al'ba__iz_eko-kozhi",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1644235001744.jpeg",
@@ -1934,6 +2053,7 @@
     },
     "Серое платье миди в горох \"Капелла\"": {
         "name": "Серое платье миди в горох \"Капелла\"",
+        "en_name": "Seroe_plat'e_midi_v_goroh__Kapella_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1643979737932.jpeg",
@@ -1952,6 +2072,7 @@
     },
     "Белый трикотажный костюм юбка и топ": {
         "name": "Белый трикотажный костюм юбка и топ",
+        "en_name": "Belyj_trikotazhnyj_kostjum_jubka_i_top",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1648831944160.jpg",
@@ -1975,6 +2096,7 @@
     },
     "Черный костюм-тройка": {
         "name": "Черный костюм-тройка",
+        "en_name": "Chernyj_kostjum-trojka",
         "price": "13900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643809430773.jpeg",
@@ -1987,6 +2109,7 @@
     },
     "Черное мини-платье \"Пэтси\"": {
         "name": "Черное мини-платье \"Пэтси\"",
+        "en_name": "Chernoe_mini-plat'e__Petsi_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1647965016946.jpg",
@@ -2010,6 +2133,7 @@
     },
     "New office collection 2022": {
         "name": "New office collection 2022",
+        "en_name": "New_office_collection_2022",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643808927505.jpeg",
@@ -2022,6 +2146,7 @@
     },
     "Красный комплект \"Никки\"": {
         "name": "Красный комплект \"Никки\"",
+        "en_name": "Krasnyj_komplekt__Nikki_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643979777988.jpeg",
@@ -2035,6 +2160,7 @@
     },
     "Красное платье-миди \"Харли\"": {
         "name": "Красное платье-миди \"Харли\"",
+        "en_name": "Krasnoe_plat'e-midi__Harli_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1643635197238.jpeg",
@@ -2053,6 +2179,7 @@
     },
     "Пиджак \"Шеффилд\" в клетку, ягодный": {
         "name": "Пиджак \"Шеффилд\" в клетку, ягодный",
+        "en_name": "Pidzhak__Sheffild__v_kletku_jagodnyj",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643636011243.jpg",
@@ -2065,6 +2192,7 @@
     },
     "Широкие брюки с разрезами": {
         "name": "Широкие брюки с разрезами",
+        "en_name": "Shirokie_brjuki_s_razrezami",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643635828612.jpeg",
@@ -2077,6 +2205,7 @@
     },
     "Черный джемпер в полоску": {
         "name": "Черный джемпер в полоску",
+        "en_name": "Chernyj_dzhemper_v_polosku",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1643471337502.jpeg",
@@ -2099,6 +2228,7 @@
     },
     "Розовый свитер с воротником-стойкой": {
         "name": "Розовый свитер с воротником-стойкой",
+        "en_name": "Rozovyj_sviter_s_vorotnikom-stojkoj",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1643470687175.jpeg",
@@ -2117,6 +2247,7 @@
     },
     "Белый трикотажный костюм \"Никки\"": {
         "name": "Белый трикотажный костюм \"Никки\"",
+        "en_name": "Belyj_trikotazhnyj_kostjum__Nikki_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1643467465913.jpeg",
@@ -2132,6 +2263,7 @@
     },
     "Черная мини-юбка с разрезами": {
         "name": "Черная мини-юбка с разрезами",
+        "en_name": "Chernaja_mini-jubka_s_razrezami",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643381994566.jpeg",
@@ -2145,6 +2277,7 @@
     },
     "Белое боди с рукавами": {
         "name": "Белое боди с рукавами",
+        "en_name": "Beloe_bodi_s_rukavami",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643381473801.jpeg",
@@ -2158,6 +2291,7 @@
     },
     "Бежевое платье мини с молниями": {
         "name": "Бежевое платье мини с молниями",
+        "en_name": "Bezhevoe_plat'e_mini_s_molnijami",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1643381371885.jpeg",
@@ -2172,6 +2306,7 @@
     },
     "Черная юбка миди из эко-кожи": {
         "name": "Черная юбка миди из эко-кожи",
+        "en_name": "Chernaja_jubka_midi_iz_eko-kozhi",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1643380119834.jpeg",
@@ -2186,6 +2321,7 @@
     },
     "Синие шорты из эко-кожи": {
         "name": "Синие шорты из эко-кожи",
+        "en_name": "Sinie_shorty_iz_eko-kozhi",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643379114835.jpeg",
@@ -2199,6 +2335,7 @@
     },
     "Свитер \"электрик\" с высоким воротом": {
         "name": "Свитер \"электрик\" с высоким воротом",
+        "en_name": "Sviter__elektrik__s_vysokim_vorotom",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643317194340.jpeg",
@@ -2212,6 +2349,7 @@
     },
     "Комплект кроп-топ и брюки \"Авиньон\"": {
         "name": "Комплект кроп-топ и брюки \"Авиньон\"",
+        "en_name": "Komplekt_krop-top_i_brjuki__Avin'on_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1627511721779.jpg",
@@ -2242,6 +2380,7 @@
     },
     "Хлопковое платье-рубашка": {
         "name": "Хлопковое платье-рубашка",
+        "en_name": "Hlopkovoe_plat'e-rubashka",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1643316758650.jpeg",
@@ -2256,6 +2395,7 @@
     },
     "Синий объемный джемпер": {
         "name": "Синий объемный джемпер",
+        "en_name": "Sinij_ob'emnyj_dzhemper",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1643215550101.jpeg",
@@ -2279,6 +2419,7 @@
     },
     "Шорты-клеш, молочный": {
         "name": "Шорты-клеш, молочный",
+        "en_name": "Shorty-klesh_molochnyj",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643122542695.jpeg",
@@ -2291,6 +2432,7 @@
     },
     "Черные шорты бермуды с блеском": {
         "name": "Черные шорты бермуды с блеском",
+        "en_name": "Chernye_shorty_bermudy_s_bleskom",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1639307667548.jpg",
@@ -2305,6 +2447,7 @@
     },
     "Брюки с блестящим эффектом": {
         "name": "Брюки с блестящим эффектом",
+        "en_name": "Brjuki_s_blestjaschim_effektom",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1643053149943.jpeg",
@@ -2318,6 +2461,7 @@
     },
     "Бархатное корсетное платье-миди \"Лира\"": {
         "name": "Бархатное корсетное платье-миди \"Лира\"",
+        "en_name": "Barhatnoe_korsetnoe_plat'e-midi__Lira_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1633622212857.jpg",
@@ -2348,6 +2492,7 @@
     },
     "Мятное платье с перьями \"Бланш\"": {
         "name": "Мятное платье с перьями \"Бланш\"",
+        "en_name": "Mjatnoe_plat'e_s_per'jami__Blansh_",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639317889707.jpeg",
@@ -2366,6 +2511,7 @@
     },
     "Белое мини-платье с объемным рукавом": {
         "name": "Белое мини-платье с объемным рукавом",
+        "en_name": "Beloe_mini-plat'e_s_ob'emnym_rukavom",
         "price": "17900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1637849658636.jpeg",
@@ -2384,6 +2530,7 @@
     },
     "Мятное платье с бахромой": {
         "name": "Мятное платье с бахромой",
+        "en_name": "Mjatnoe_plat'e_s_bahromoj",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1638193515898.jpeg",
@@ -2398,6 +2545,7 @@
     },
     "Бархатное черное платье \"Мирейя\"": {
         "name": "Бархатное черное платье \"Мирейя\"",
+        "en_name": "Barhatnoe_chernoe_plat'e__Mirejja_",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1638629247160.jpeg",
@@ -2413,6 +2561,7 @@
     },
     "Бежевое бархатное платье мини": {
         "name": "Бежевое бархатное платье мини",
+        "en_name": "Bezhevoe_barhatnoe_plat'e_mini",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639741536029.jpeg",
@@ -2426,6 +2575,7 @@
     },
     "Платье \"Лиссабон\" с объемным рукавом": {
         "name": "Платье \"Лиссабон\" с объемным рукавом",
+        "en_name": "Plat'e__Lissabon__s_ob'emnym_rukavom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639734415146.jpeg",
@@ -2439,6 +2589,7 @@
     },
     "Черное платье с запахом \"Канны\"": {
         "name": "Черное платье с запахом \"Канны\"",
+        "en_name": "Chernoe_plat'e_s_zapahom__Kanny_",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1638809523668.jpg",
@@ -2453,6 +2604,7 @@
     },
     "Бархатное черное платье мини": {
         "name": "Бархатное черное платье мини",
+        "en_name": "Barhatnoe_chernoe_plat'e_mini",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1638634627686.jpeg",
@@ -2467,6 +2619,7 @@
     },
     "Жемчужное платье-миди на запах": {
         "name": "Жемчужное платье-миди на запах",
+        "en_name": "Zhemchuzhnoe_plat'e-midi_na_zapah",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1638808988777.jpg",
@@ -2490,6 +2643,7 @@
     },
     "Блуза-боди плиссе, серебро": {
         "name": "Блуза-боди плиссе, серебро",
+        "en_name": "Bluza-bodi_plisse_serebro",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639682291930.jpeg",
@@ -2502,6 +2656,7 @@
     },
     "Черное платье-мини с объемным рукавом": {
         "name": "Черное платье-мини с объемным рукавом",
+        "en_name": "Chernoe_plat'e-mini_s_ob'emnym_rukavom",
         "price": "17900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639682227519.jpeg",
@@ -2517,6 +2672,7 @@
     },
     "Изумрудное платье-миди «Канны»": {
         "name": "Изумрудное платье-миди «Канны»",
+        "en_name": "Izumrudnoe_plat'e-midi_«Kanny»",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1638736743214.jpeg",
@@ -2532,6 +2688,7 @@
     },
     "Черный комплект топ с пайетками и юбка": {
         "name": "Черный комплект топ с пайетками и юбка",
+        "en_name": "Chernyj_komplekt_top_s_pajetkami_i_jubka",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639680718942.jpeg",
@@ -2544,6 +2701,7 @@
     },
     "Розовое платье-мини с пайетками": {
         "name": "Розовое платье-мини с пайетками",
+        "en_name": "Rozovoe_plat'e-mini_s_pajetkami",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639055239301.jpeg",
@@ -2559,6 +2717,7 @@
     },
     "Золотое платье-мини с узором из пайеток": {
         "name": "Золотое платье-мини с узором из пайеток",
+        "en_name": "Zolotoe_plat'e-mini_s_uzorom_iz_pajetok",
         "price": "16900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639578462274.jpeg",
@@ -2571,6 +2730,7 @@
     },
     "Изумрудный комбинезон с пайетками": {
         "name": "Изумрудный комбинезон с пайетками",
+        "en_name": "Izumrudnyj_kombinezon_s_pajetkami",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639578397275.jpeg",
@@ -2589,6 +2749,7 @@
     },
     "Пудровое кружевное платье \"Вирсавия\"": {
         "name": "Пудровое кружевное платье \"Вирсавия\"",
+        "en_name": "Pudrovoe_kruzhevnoe_plat'e__Virsavija_",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1638635250509.jpeg",
@@ -2602,6 +2763,7 @@
     },
     "Черное платье-миди \"Руна\" с бахромой": {
         "name": "Черное платье-миди \"Руна\" с бахромой",
+        "en_name": "Chernoe_plat'e-midi__Runa__s_bahromoj",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1638185969491.jpeg",
@@ -2620,6 +2782,7 @@
     },
     "Комплект боди и юбка в пол, золото": {
         "name": "Комплект боди и юбка в пол, золото",
+        "en_name": "Komplekt_bodi_i_jubka_v_pol_zoloto",
         "price": "28000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1639411465936.jpg",
@@ -2639,6 +2802,7 @@
     },
     "Платье в пол айвори с вышивкой": {
         "name": "Платье в пол айвори с вышивкой",
+        "en_name": "Plat'e_v_pol_ajvori_s_vyshivkoj",
         "price": "35000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1639411076904.jpg",
@@ -2666,6 +2830,7 @@
     },
     "Бежевое платье в пол с воланом": {
         "name": "Бежевое платье в пол с воланом",
+        "en_name": "Bezhevoe_plat'e_v_pol_s_volanom",
         "price": "35000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1639410512183.jpg",
@@ -2696,6 +2861,7 @@
     },
     "Свадебное платье с перьями, айвори": {
         "name": "Свадебное платье с перьями, айвори",
+        "en_name": "Svadebnoe_plat'e_s_per'jami_ajvori",
         "price": "40900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1639410079386.jpg",
@@ -2718,6 +2884,7 @@
     },
     "Синее платье-бюстье": {
         "name": "Синее платье-бюстье",
+        "en_name": "Sinee_plat'e-bjust'e",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1636476569910.jpeg",
@@ -2744,6 +2911,7 @@
     },
     "Белое платье-мини с бахромой": {
         "name": "Белое платье-мини с бахромой",
+        "en_name": "Beloe_plat'e-mini_s_bahromoj",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1637682105123.jpeg",
@@ -2758,6 +2926,7 @@
     },
     "Белый костюм-двойка \"Пинки\" с перьями": {
         "name": "Белый костюм-двойка \"Пинки\" с перьями",
+        "en_name": "Belyj_kostjum-dvojka__Pinki__s_per'jami",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1639318012480.jpeg",
@@ -2770,6 +2939,7 @@
     },
     "Бархатное платье с асимметрией": {
         "name": "Бархатное платье с асимметрией",
+        "en_name": "Barhatnoe_plat'e_s_asimmetriej",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639307084805.jpg",
@@ -2785,6 +2955,7 @@
     },
     "Синее платье-бюстье с бретелями из страз": {
         "name": "Синее платье-бюстье с бретелями из страз",
+        "en_name": "Sinee_plat'e-bjust'e_s_breteljami_iz_straz",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639306437325.jpg",
@@ -2803,6 +2974,7 @@
     },
     "Черное платье с фактурным кружевом": {
         "name": "Черное платье с фактурным кружевом",
+        "en_name": "Chernoe_plat'e_s_fakturnym_kruzhevom",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1639055022086.jpeg",
@@ -2821,6 +2993,7 @@
     },
     "Белый вечерний комплект топ и юбка": {
         "name": "Белый вечерний комплект топ и юбка",
+        "en_name": "Belyj_vechernij_komplekt_top_i_jubka",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1639054222559.jpeg",
@@ -2835,6 +3008,7 @@
     },
     "Алое платье-миди на запах \"Канны\"": {
         "name": "Алое платье-миди на запах \"Канны\"",
+        "en_name": "Aloe_plat'e-midi_na_zapah__Kanny_",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1638196973214.jpeg",
@@ -2853,6 +3027,7 @@
     },
     "Черная блуза с бантом, V-вырез": {
         "name": "Черная блуза с бантом, V-вырез",
+        "en_name": "Chernaja_bluza_s_bantom_V-vyrez",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1638796823716.jpeg",
@@ -2866,6 +3041,7 @@
     },
     "Кожаные шорты-юбка, шампань": {
         "name": "Кожаные шорты-юбка, шампань",
+        "en_name": "Kozhanye_shorty-jubka_shampan'",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637959167189.jpg",
@@ -2878,6 +3054,7 @@
     },
     "Черное платье-футляр \"Готель\"": {
         "name": "Черное платье-футляр \"Готель\"",
+        "en_name": "Chernoe_plat'e-futljar__Gotel'_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1638712435292.jpeg",
@@ -2891,6 +3068,7 @@
     },
     "Бархатное платье со сборкой, изумруд": {
         "name": "Бархатное платье со сборкой, изумруд",
+        "en_name": "Barhatnoe_plat'e_so_sborkoj_izumrud",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1639307737397.jpg",
@@ -2910,6 +3088,7 @@
     },
     "Шорты бермуды, серебро": {
         "name": "Шорты бермуды, серебро",
+        "en_name": "Shorty_bermudy_serebro",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1638534015793.jpeg",
@@ -2923,6 +3102,7 @@
     },
     "Новогодние платья MALINA Bonita": {
         "name": "Новогодние платья MALINA Bonita",
+        "en_name": "Novogodnie_plat'ja_MALINA_Bonita",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637682773024.jpeg",
@@ -2935,6 +3115,7 @@
     },
     "Белое платье-миди с перьями \"Бланш\"": {
         "name": "Белое платье-миди с перьями \"Бланш\"",
+        "en_name": "Beloe_plat'e-midi_s_per'jami__Blansh_",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637591612190.jpeg",
@@ -2947,6 +3128,7 @@
     },
     "Бархатное мини-платье со сборкой": {
         "name": "Бархатное мини-платье со сборкой",
+        "en_name": "Barhatnoe_mini-plat'e_so_sborkoj",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1638185418244.jpeg",
@@ -2960,6 +3142,7 @@
     },
     "Мини-платье с пайетками и перьями": {
         "name": "Мини-платье с пайетками и перьями",
+        "en_name": "Mini-plat'e_s_pajetkami_i_per'jami",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1638185310270.jpeg",
@@ -2975,6 +3158,7 @@
     },
     "Платье-кимоно \"Фуксия\"": {
         "name": "Платье-кимоно \"Фуксия\"",
+        "en_name": "Plat'e-kimono__Fuksija_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1631685631796.jpeg",
@@ -2989,6 +3173,7 @@
     },
     "Жаккардовое платье-кимоно \"Бирюза\"": {
         "name": "Жаккардовое платье-кимоно \"Бирюза\"",
+        "en_name": "Zhakkardovoe_plat'e-kimono__Birjuza_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1631685963518.jpeg",
@@ -3008,6 +3193,7 @@
     },
     "Утепленное пальто с мехом": {
         "name": "Утепленное пальто с мехом",
+        "en_name": "Uteplennoe_pal'to_s_mehom",
         "price": "25000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637853675266.jpeg",
@@ -3020,6 +3206,7 @@
     },
     "Стеганая куртка \"Пыльная роза\"": {
         "name": "Стеганая куртка \"Пыльная роза\"",
+        "en_name": "Steganaja_kurtka__Pyl'naja_roza_",
         "price": "24500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637853047427.jpeg",
@@ -3032,6 +3219,7 @@
     },
     "Голубой твидовый пиджак \"Шеффилд\"": {
         "name": "Голубой твидовый пиджак \"Шеффилд\"",
+        "en_name": "Goluboj_tvidovyj_pidzhak__Sheffild_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637850123912.jpeg",
@@ -3044,6 +3232,7 @@
     },
     "Платье-миди с крылышками, карамель": {
         "name": "Платье-миди с крылышками, карамель",
+        "en_name": "Plat'e-midi_s_krylyshkami_karamel'",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1635194487725.jpg",
@@ -3058,6 +3247,7 @@
     },
     "Оливковое платье миди «Амбра»": {
         "name": "Оливковое платье миди «Амбра»",
+        "en_name": "Olivkovoe_plat'e_midi_«Ambra»",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1635168891417.jpeg",
@@ -3072,6 +3262,7 @@
     },
     "Черная блуза с воротником \"Челси\"": {
         "name": "Черная блуза с воротником \"Челси\"",
+        "en_name": "Chernaja_bluza_s_vorotnikom__Chelsi_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637785742906.jpg",
@@ -3084,6 +3275,7 @@
     },
     "Оливковый кардиган с логотипом": {
         "name": "Оливковый кардиган с логотипом",
+        "en_name": "Olivkovyj_kardigan_s_logotipom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637784704834.jpg",
@@ -3096,6 +3288,7 @@
     },
     "Белое платье-миди с бретелями": {
         "name": "Белое платье-миди с бретелями",
+        "en_name": "Beloe_plat'e-midi_s_breteljami",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637762268199.jpeg",
@@ -3109,6 +3302,7 @@
     },
     "Синее платье с бретелями": {
         "name": "Синее платье с бретелями",
+        "en_name": "Sinee_plat'e_s_breteljami",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1637762103167.jpeg",
@@ -3123,6 +3317,7 @@
     },
     "Красное платье-футляр \"Шеннон\" с разрезом": {
         "name": "Красное платье-футляр \"Шеннон\" с разрезом",
+        "en_name": "Krasnoe_plat'e-futljar__Shennon__s_razrezom",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1637592001722.jpeg",
@@ -3137,6 +3332,7 @@
     },
     "Костюм-двойка с перьями \"Пинки\"": {
         "name": "Костюм-двойка с перьями \"Пинки\"",
+        "en_name": "Kostjum-dvojka_s_per'jami__Pinki_",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1637583824304.jpg",
@@ -3155,6 +3351,7 @@
     },
     "Черное мини-платье с бахромой": {
         "name": "Черное мини-платье с бахромой",
+        "en_name": "Chernoe_mini-plat'e_s_bahromoj",
         "price": "8900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1637244498309.jpeg",
@@ -3174,6 +3371,7 @@
     },
     "Платье бюстье с баской \"Мэган\"": {
         "name": "Платье бюстье с баской \"Мэган\"",
+        "en_name": "Plat'e_bjust'e_s_baskoj__Megan_",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1636203515369.jpeg",
@@ -3200,6 +3398,7 @@
     },
     "Черное боди со шнуровкой": {
         "name": "Черное боди со шнуровкой",
+        "en_name": "Chernoe_bodi_so_shnurovkoj",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1637091111927.jpeg",
@@ -3212,6 +3411,7 @@
     },
     "Серая куртка-миди": {
         "name": "Серая куртка-миди",
+        "en_name": "Seraja_kurtka-midi",
         "price": "24500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635607516780.jpeg",
@@ -3224,6 +3424,7 @@
     },
     "Черная куртка с воротником-стойкой": {
         "name": "Черная куртка с воротником-стойкой",
+        "en_name": "Chernaja_kurtka_s_vorotnikom-stojkoj",
         "price": "24500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635607097840.jpeg",
@@ -3236,6 +3437,7 @@
     },
     "Шорты-юбка, кэмел": {
         "name": "Шорты-юбка, кэмел",
+        "en_name": "Shorty-jubka_kemel",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1636816051480.jpeg",
@@ -3248,6 +3450,7 @@
     },
     "Кардиган с логотипом, тиффани": {
         "name": "Кардиган с логотипом, тиффани",
+        "en_name": "Kardigan_s_logotipom_tiffani",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1635883088915.jpg",
@@ -3266,6 +3469,7 @@
     },
     "Бежевые брюки прямого кроя": {
         "name": "Бежевые брюки прямого кроя",
+        "en_name": "Bezhevye_brjuki_prjamogo_kroja",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1636515961584.jpg",
@@ -3279,6 +3483,7 @@
     },
     "Комплект пиджак и жакет, беж": {
         "name": "Комплект пиджак и жакет, беж",
+        "en_name": "Komplekt_pidzhak_i_zhaket_bezh",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1636515431389.jpeg",
@@ -3309,6 +3514,7 @@
     },
     "Платье-футляр \"Келли\" в горох": {
         "name": "Платье-футляр \"Келли\" в горох",
+        "en_name": "Plat'e-futljar__Kelli__v_goroh",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1636482939919.jpeg",
@@ -3323,6 +3529,7 @@
     },
     "Сарафан \"Каприсса\", золото": {
         "name": "Сарафан \"Каприсса\", золото",
+        "en_name": "Sarafan__Kaprissa__zoloto",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1637148831286.jpeg",
@@ -3341,6 +3548,7 @@
     },
     "Голубой сарафан \"Каприсса\"": {
         "name": "Голубой сарафан \"Каприсса\"",
+        "en_name": "Goluboj_sarafan__Kaprissa_",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1636482351833.jpeg",
@@ -3355,6 +3563,7 @@
     },
     "Черное платье-футляр \"Риджина\"": {
         "name": "Черное платье-футляр \"Риджина\"",
+        "en_name": "Chernoe_plat'e-futljar__Ridzhina_",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1636814842924.jpeg",
@@ -3369,6 +3578,7 @@
     },
     "Платье-футляр \"Монреаль\"": {
         "name": "Платье-футляр \"Монреаль\"",
+        "en_name": "Plat'e-futljar__Monreal'_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1636476278729.jpeg",
@@ -3392,6 +3602,7 @@
     },
     "Платье на бретелях \"Бирюзовый коктейль\"": {
         "name": "Платье на бретелях \"Бирюзовый коктейль\"",
+        "en_name": "Plat'e_na_breteljah__Birjuzovyj_koktejl'_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1636204517499.jpeg",
@@ -3407,6 +3618,7 @@
     },
     "Сиреневая куртка с мехом норки": {
         "name": "Сиреневая куртка с мехом норки",
+        "en_name": "Sirenevaja_kurtka_s_mehom_norki",
         "price": "36000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1635168034118.jpeg",
@@ -3421,6 +3633,7 @@
     },
     "Черные брюки с ремешками": {
         "name": "Черные брюки с ремешками",
+        "en_name": "Chernye_brjuki_s_remeshkami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1636111137485.jpeg",
@@ -3433,6 +3646,7 @@
     },
     "Блуза-боди с глубоким вырезом": {
         "name": "Блуза-боди с глубоким вырезом",
+        "en_name": "Bluza-bodi_s_glubokim_vyrezom",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635515520415.jpeg",
@@ -3446,6 +3660,7 @@
     },
     "Черная блуза корсетного кроя": {
         "name": "Черная блуза корсетного кроя",
+        "en_name": "Chernaja_bluza_korsetnogo_kroja",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1636110549346.jpeg",
@@ -3458,6 +3673,7 @@
     },
     "Красное утепленное пончо с мехом": {
         "name": "Красное утепленное пончо с мехом",
+        "en_name": "Krasnoe_uteplennoe_poncho_s_mehom",
         "price": "33900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635978774660.jpeg",
@@ -3471,6 +3687,7 @@
     },
     "Коричневое утепленное пончо с мехом": {
         "name": "Коричневое утепленное пончо с мехом",
+        "en_name": "Korichnevoe_uteplennoe_poncho_s_mehom",
         "price": "33900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635978408451.jpeg",
@@ -3483,6 +3700,7 @@
     },
     "Белый кроп-топ на бретелях": {
         "name": "Белый кроп-топ на бретелях",
+        "en_name": "Belyj_krop-top_na_breteljah",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635942584509.jpg",
@@ -3496,6 +3714,7 @@
     },
     "Черный кроп-топ из вискозы": {
         "name": "Черный кроп-топ из вискозы",
+        "en_name": "Chernyj_krop-top_iz_viskozy",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635942215907.jpg",
@@ -3509,6 +3728,7 @@
     },
     "Белый комбинезон \"Оникс\" со шлицей": {
         "name": "Белый комбинезон \"Оникс\" со шлицей",
+        "en_name": "Belyj_kombinezon__Oniks__so_shlitsej",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1635941430279.jpeg",
@@ -3528,6 +3748,7 @@
     },
     "Черные шорты-юбка из эко-замши": {
         "name": "Черные шорты-юбка из эко-замши",
+        "en_name": "Chernye_shorty-jubka_iz_eko-zamshi",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635882604254.jpg",
@@ -3540,6 +3761,7 @@
     },
     "Черное платье футляр «Монреаль»": {
         "name": "Черное платье футляр «Монреаль»",
+        "en_name": "Chernoe_plat'e_futljar_«Monreal'»",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1635789380004.jpg",
@@ -3558,6 +3780,7 @@
     },
     "Блуза из органзы с бантом": {
         "name": "Блуза из органзы с бантом",
+        "en_name": "Bluza_iz_organzy_s_bantom",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1634126960368.jpeg",
@@ -3581,6 +3804,7 @@
     },
     "Черное платье-миди с крылышками": {
         "name": "Черное платье-миди с крылышками",
+        "en_name": "Chernoe_plat'e-midi_s_krylyshkami",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1635788938837.jpg",
@@ -3596,6 +3820,7 @@
     },
     "Красное боди с глубоким вырезом": {
         "name": "Красное боди с глубоким вырезом",
+        "en_name": "Krasnoe_bodi_s_glubokim_vyrezom",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635788598079.jpeg",
@@ -3608,6 +3833,7 @@
     },
     "Бежевое платье-футляр миди": {
         "name": "Бежевое платье-футляр миди",
+        "en_name": "Bezhevoe_plat'e-futljar_midi",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1635715446910.jpeg",
@@ -3620,6 +3846,7 @@
     },
     "Мятное боди с фигурным вырезом": {
         "name": "Мятное боди с фигурным вырезом",
+        "en_name": "Mjatnoe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1635784573422.jpg",
@@ -3635,6 +3862,7 @@
     },
     "Черный трикотажный топ": {
         "name": "Черный трикотажный топ",
+        "en_name": "Chernyj_trikotazhnyj_top",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1604395306284.jpg",
@@ -3650,6 +3878,7 @@
     },
     "Рубашка с принтом «Цепи»": {
         "name": "Рубашка с принтом «Цепи»",
+        "en_name": "Rubashka_s_printom_«Tsepi»",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1630315833843.jpeg",
@@ -3663,6 +3892,7 @@
     },
     "Юбка-карандаш со шнуровкой": {
         "name": "Юбка-карандаш со шнуровкой",
+        "en_name": "Jubka-karandash_so_shnurovkoj",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1635195971037.jpg",
@@ -3677,6 +3907,7 @@
     },
     "Черный комбинезон с фигурным вырезом": {
         "name": "Черный комбинезон с фигурным вырезом",
+        "en_name": "Chernyj_kombinezon_s_figurnym_vyrezom",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1621809774023.jpg",
@@ -3695,6 +3926,7 @@
     },
     "Черная мини-юбка на шнуровке": {
         "name": "Черная мини-юбка на шнуровке",
+        "en_name": "Chernaja_mini-jubka_na_shnurovke",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634824513383.jpg",
@@ -3708,6 +3940,7 @@
     },
     "Оранжевое платье-рубашка": {
         "name": "Оранжевое платье-рубашка",
+        "en_name": "Oranzhevoe_plat'e-rubashka",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1633893103479.jpeg",
@@ -3722,6 +3955,7 @@
     },
     "Лиловая футболка с ажурным воротником": {
         "name": "Лиловая футболка с ажурным воротником",
+        "en_name": "Lilovaja_futbolka_s_azhurnym_vorotnikom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634476946283.jpeg",
@@ -3734,6 +3968,7 @@
     },
     "Белая футболка с ажурным воротником": {
         "name": "Белая футболка с ажурным воротником",
+        "en_name": "Belaja_futbolka_s_azhurnym_vorotnikom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634475535726.jpeg",
@@ -3747,6 +3982,7 @@
     },
     "Черное мини-платье из эко-замши": {
         "name": "Черное мини-платье из эко-замши",
+        "en_name": "Chernoe_mini-plat'e_iz_eko-zamshi",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1634473219045.jpeg",
@@ -3762,6 +3998,7 @@
     },
     "Черные брюки с разрезами": {
         "name": "Черные брюки с разрезами",
+        "en_name": "Chernye_brjuki_s_razrezami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634472622192.jpeg",
@@ -3774,6 +4011,7 @@
     },
     "Блуза с кокеткой «Плезир»": {
         "name": "Блуза с кокеткой «Плезир»",
+        "en_name": "Bluza_s_koketkoj_«Plezir»",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634472142010.jpeg",
@@ -3787,6 +4025,7 @@
     },
     "Платье-футляр из эко-замши \"Хилари\"": {
         "name": "Платье-футляр из эко-замши \"Хилари\"",
+        "en_name": "Plat'e-futljar_iz_eko-zamshi__Hilari_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634328638775.jpeg",
@@ -3800,6 +4039,7 @@
     },
     "Бежевое платье-футляр с оторочкой": {
         "name": "Бежевое платье-футляр с оторочкой",
+        "en_name": "Bezhevoe_plat'e-futljar_s_otorochkoj",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634328261097.jpeg",
@@ -3813,6 +4053,7 @@
     },
     "Черное платье футляр с оторочкой": {
         "name": "Черное платье футляр с оторочкой",
+        "en_name": "Chernoe_plat'e_futljar_s_otorochkoj",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634328018950.jpeg",
@@ -3826,6 +4067,7 @@
     },
     "Красное платье миди с рукавом фонарик": {
         "name": "Красное платье миди с рукавом фонарик",
+        "en_name": "Krasnoe_plat'e_midi_s_rukavom_fonarik",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634327446393.jpeg",
@@ -3839,6 +4081,7 @@
     },
     "Платье с рукавом фонарик, миди": {
         "name": "Платье с рукавом фонарик, миди",
+        "en_name": "Plat'e_s_rukavom_fonarik_midi",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634308913010.jpeg",
@@ -3852,6 +4095,7 @@
     },
     "Черная блуза с рюшами «Софи»": {
         "name": "Черная блуза с рюшами «Софи»",
+        "en_name": "Chernaja_bluza_s_rjushami_«Sofi»",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634308337077.jpeg",
@@ -3864,6 +4108,7 @@
     },
     "Жилет молочного цвета": {
         "name": "Жилет молочного цвета",
+        "en_name": "Zhilet_molochnogo_tsveta",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto5/1634222477420.jpeg",
@@ -3894,6 +4139,7 @@
     },
     "Бежевое платье с рукавом-фонарик": {
         "name": "Бежевое платье с рукавом-фонарик",
+        "en_name": "Bezhevoe_plat'e_s_rukavom-fonarik",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634064367081.jpeg",
@@ -3907,6 +4153,7 @@
     },
     "Блуза с баской \"Лоретта\"": {
         "name": "Блуза с баской \"Лоретта\"",
+        "en_name": "Bluza_s_baskoj__Loretta_",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1634063970390.jpeg",
@@ -3920,6 +4167,7 @@
     },
     "Платье на бретелях \"Синий коктейль\"": {
         "name": "Платье на бретелях \"Синий коктейль\"",
+        "en_name": "Plat'e_na_breteljah__Sinij_koktejl'_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633892621289.jpeg",
@@ -3932,6 +4180,7 @@
     },
     "Красный комбинезон \"Оникс\" со шлицей": {
         "name": "Красный комбинезон \"Оникс\" со шлицей",
+        "en_name": "Krasnyj_kombinezon__Oniks__so_shlitsej",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633808501905.jpeg",
@@ -3944,6 +4193,7 @@
     },
     "Вечерняя капсула Malina Bonita": {
         "name": "Вечерняя капсула Malina Bonita",
+        "en_name": "Vechernjaja_kapsula_Malina_Bonita",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633808364559.jpeg",
@@ -3956,6 +4206,7 @@
     },
     "Черное боди с фигурным вырезом": {
         "name": "Черное боди с фигурным вырезом",
+        "en_name": "Chernoe_bodi_s_figurnym_vyrezom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633705032740.jpeg",
@@ -3968,6 +4219,7 @@
     },
     "Платье на бретелях \"Розовый коктейль\"": {
         "name": "Платье на бретелях \"Розовый коктейль\"",
+        "en_name": "Plat'e_na_breteljah__Rozovyj_koktejl'_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633621686129.jpeg",
@@ -3980,6 +4232,7 @@
     },
     "Футболка с ажурным воротником": {
         "name": "Футболка с ажурным воротником",
+        "en_name": "Futbolka_s_azhurnym_vorotnikom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1633620195154.jpeg",
@@ -3992,6 +4245,7 @@
     },
     "Бежевый комбинезон с вырезом \"Баноффи\"": {
         "name": "Бежевый комбинезон с вырезом \"Баноффи\"",
+        "en_name": "Bezhevyj_kombinezon_s_vyrezom__Banoffi_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1625562219568.jpg",
@@ -4014,6 +4268,7 @@
     },
     "Платье-футляр \"Хилари\", нюд": {
         "name": "Платье-футляр \"Хилари\", нюд",
+        "en_name": "Plat'e-futljar__Hilari__njud",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1633611627503.jpeg",
@@ -4028,6 +4283,7 @@
     },
     "Шоколадный кардиган-миди": {
         "name": "Шоколадный кардиган-миди",
+        "en_name": "Shokoladnyj_kardigan-midi",
         "price": "23900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1633607607491.jpeg",
@@ -4042,6 +4298,7 @@
     },
     "Костюм-двойка \"Иветта\"": {
         "name": "Костюм-двойка \"Иветта\"",
+        "en_name": "Kostjum-dvojka__Ivetta_",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1632175679813.jpeg",
@@ -4055,6 +4312,7 @@
     },
     "Платье-пиджак с открытой спиной": {
         "name": "Платье-пиджак с открытой спиной",
+        "en_name": "Plat'e-pidzhak_s_otkrytoj_spinoj",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1632174955414.jpeg",
@@ -4070,6 +4328,7 @@
     },
     "Синий костюм-тройка": {
         "name": "Синий костюм-тройка",
+        "en_name": "Sinij_kostjum-trojka",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1631686622634.jpeg",
@@ -4084,6 +4343,7 @@
     },
     "Костюм-двойка в желтую клетку": {
         "name": "Костюм-двойка в желтую клетку",
+        "en_name": "Kostjum-dvojka_v_zheltuju_kletku",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1631687176008.jpeg",
@@ -4099,6 +4359,7 @@
     },
     "Черные кожаные легинсы с молниями": {
         "name": "Черные кожаные легинсы с молниями",
+        "en_name": "Chernye_kozhanye_leginsy_s_molnijami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1630583224373.jpeg",
@@ -4113,6 +4374,7 @@
     },
     "Костюм-двойка с кюлотами \"Санрайз\"": {
         "name": "Костюм-двойка с кюлотами \"Санрайз\"",
+        "en_name": "Kostjum-dvojka_s_kjulotami__Sanrajz_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1630068029684.jpeg",
@@ -4128,6 +4390,7 @@
     },
     "Голубое платье-футляр \"Молли\"": {
         "name": "Голубое платье-футляр \"Молли\"",
+        "en_name": "Goluboe_plat'e-futljar__Molli_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1629989229974.jpg",
@@ -4141,6 +4404,7 @@
     },
     "Сарафан в пол \"Эммануэль\"": {
         "name": "Сарафан в пол \"Эммануэль\"",
+        "en_name": "Sarafan_v_pol__Emmanuel'_",
         "price": "16500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1625827195646.jpg",
@@ -4163,6 +4427,7 @@
     },
     "Голубая укороченная футболка": {
         "name": "Голубая укороченная футболка",
+        "en_name": "Golubaja_ukorochennaja_futbolka",
         "price": "2900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623447651857.jpg",
@@ -4175,6 +4440,7 @@
     },
     "Льняной костюм-двойка оверсайз": {
         "name": "Льняной костюм-двойка оверсайз",
+        "en_name": "L'njanoj_kostjum-dvojka_oversajz",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1628266544000.jpg",
@@ -4187,6 +4453,7 @@
     },
     "Пудровый кроп-джемпер": {
         "name": "Пудровый кроп-джемпер",
+        "en_name": "Pudrovyj_krop-dzhemper",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1628243506630.jpg",
@@ -4199,6 +4466,7 @@
     },
     "Мятное платье с акварельным принтом": {
         "name": "Мятное платье с акварельным принтом",
+        "en_name": "Mjatnoe_plat'e_s_akvarel'nym_printom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1625861906827.jpg",
@@ -4218,6 +4486,7 @@
     },
     "Платье-футляр \"Оливия\"": {
         "name": "Платье-футляр \"Оливия\"",
+        "en_name": "Plat'e-futljar__Olivija_",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1607545083279.jpg",
@@ -4236,6 +4505,7 @@
     },
     "Алое мини-платье с перьями": {
         "name": "Алое мини-платье с перьями",
+        "en_name": "Aloe_mini-plat'e_s_per'jami",
         "price": "12500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1585064885369.jpg",
@@ -4254,6 +4524,7 @@
     },
     "Бирюзовое платье-футляр \"Итальянка\"": {
         "name": "Бирюзовое платье-футляр \"Итальянка\"",
+        "en_name": "Birjuzovoe_plat'e-futljar__Ital'janka_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1628080620672.jpg",
@@ -4277,6 +4548,7 @@
     },
     "Платье \"Мильфей\" со сборками в горох": {
         "name": "Платье \"Мильфей\" со сборками в горох",
+        "en_name": "Plat'e__Mil'fej__so_sborkami_v_goroh",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1628080739375.jpg",
@@ -4292,6 +4564,7 @@
     },
     "Свадебные платья MALINA Bonita": {
         "name": "Свадебные платья MALINA Bonita",
+        "en_name": "Svadebnye_plat'ja_MALINA_Bonita",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1628027416254.jpg",
@@ -4304,6 +4577,7 @@
     },
     "Мини-сарафан с вышивкой \"Плюмети\"": {
         "name": "Мини-сарафан с вышивкой \"Плюмети\"",
+        "en_name": "Mini-sarafan_s_vyshivkoj__Pljumeti_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1628027026679.jpg",
@@ -4317,6 +4591,7 @@
     },
     "Свадебная капсула MALINA Bonita": {
         "name": "Свадебная капсула MALINA Bonita",
+        "en_name": "Svadebnaja_kapsula_MALINA_Bonita",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1628026749415.jpg",
@@ -4329,6 +4604,7 @@
     },
     "Розовое хлопковое платье-миди \"Ракель\"": {
         "name": "Розовое хлопковое платье-миди \"Ракель\"",
+        "en_name": "Rozovoe_hlopkovoe_plat'e-midi__Rakel'_",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1626519536689.jpg",
@@ -4344,6 +4620,7 @@
     },
     "Летний комплект топ и брюки \"Ситара\"": {
         "name": "Летний комплект топ и брюки \"Ситара\"",
+        "en_name": "Letnij_komplekt_top_i_brjuki__Sitara_",
         "price": "10900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1627235578005.jpg",
@@ -4358,6 +4635,7 @@
     },
     "Красное платье со шлейфом Elegant": {
         "name": "Красное платье со шлейфом Elegant",
+        "en_name": "Krasnoe_plat'e_so_shlejfom_Elegant",
         "price": "14500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1618998653507.png",
@@ -4370,6 +4648,7 @@
     },
     "Красное платье-футляр \"Хлоя\"": {
         "name": "Красное платье-футляр \"Хлоя\"",
+        "en_name": "Krasnoe_plat'e-futljar__Hloja_",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1608634409917.jpg",
@@ -4384,6 +4663,7 @@
     },
     "Свадебное платье \"Воздушное облако\"": {
         "name": "Свадебное платье \"Воздушное облако\"",
+        "en_name": "Svadebnoe_plat'e__Vozdushnoe_oblako_",
         "price": "29500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1607714138208.jpg",
@@ -4406,6 +4686,7 @@
     },
     "Платье с корсетной отделкой \"Итальянка\"": {
         "name": "Платье с корсетной отделкой \"Итальянка\"",
+        "en_name": "Plat'e_s_korsetnoj_otdelkoj__Ital'janka_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1626863422833.jpg",
@@ -4418,6 +4699,7 @@
     },
     "Сарафан с красным принтом \"Бабочки\"": {
         "name": "Сарафан с красным принтом \"Бабочки\"",
+        "en_name": "Sarafan_s_krasnym_printom__Babochki_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1627131514751.jpg",
@@ -4431,6 +4713,7 @@
     },
     "Платье-халат с воланом": {
         "name": "Платье-халат с воланом",
+        "en_name": "Plat'e-halat_s_volanom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1625740632676.jpg",
@@ -4449,6 +4732,7 @@
     },
     "Вечернее платье \"Магия золота\"": {
         "name": "Вечернее платье \"Магия золота\"",
+        "en_name": "Vechernee_plat'e__Magija_zolota_",
         "price": "29000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1607700315995.jpg",
@@ -4471,6 +4755,7 @@
     },
     "Свадебный комбинезон \"Винтаж\"": {
         "name": "Свадебный комбинезон \"Винтаж\"",
+        "en_name": "Svadebnyj_kombinezon__Vintazh_",
         "price": "29500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1627583090631.jpg",
@@ -4489,6 +4774,7 @@
     },
     "Красное платье в пол с декором из бисера": {
         "name": "Красное платье в пол с декором из бисера",
+        "en_name": "Krasnoe_plat'e_v_pol_s_dekorom_iz_bisera",
         "price": "32000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1607723721232.jpg",
@@ -4507,6 +4793,7 @@
     },
     "Блуза с длинным рукавом \"Кремэль\"": {
         "name": "Блуза с длинным рукавом \"Кремэль\"",
+        "en_name": "Bluza_s_dlinnym_rukavom__Kremel'_",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1627511359962.jpg",
@@ -4521,6 +4808,7 @@
     },
     "Мини-платье \"Альба\"": {
         "name": "Мини-платье \"Альба\"",
+        "en_name": "Mini-plat'e__Al'ba_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1625919269586.jpg",
@@ -4539,6 +4827,7 @@
     },
     "Коралловые удлиненные шорты": {
         "name": "Коралловые удлиненные шорты",
+        "en_name": "Korallovye_udlinennye_shorty",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1620398478936.jpg",
@@ -4551,6 +4840,7 @@
     },
     "Пляжная накидка-макси, персик": {
         "name": "Пляжная накидка-макси, персик",
+        "en_name": "Pljazhnaja_nakidka-maksi_persik",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1627510096230.jpg",
@@ -4569,6 +4859,7 @@
     },
     "Белая блуза с бантом": {
         "name": "Белая блуза с бантом",
+        "en_name": "Belaja_bluza_s_bantom",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1585517205565.jpg",
@@ -4583,6 +4874,7 @@
     },
     "Белое мини-платье с воланом \"Брикет\"": {
         "name": "Белое мини-платье с воланом \"Брикет\"",
+        "en_name": "Beloe_mini-plat'e_s_volanom__Briket_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1625394124373.jpg",
@@ -4602,6 +4894,7 @@
     },
     "Джинсовое платье с ретро воротником": {
         "name": "Джинсовое платье с ретро воротником",
+        "en_name": "Dzhinsovoe_plat'e_s_retro_vorotnikom",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623168959312.jpg",
@@ -4615,6 +4908,7 @@
     },
     "Черная блуза \"Лердес\" короткий рукав": {
         "name": "Черная блуза \"Лердес\" короткий рукав",
+        "en_name": "Chernaja_bluza__Lerdes__korotkij_rukav",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1626260931793.jpg",
@@ -4628,6 +4922,7 @@
     },
     "Платье с коротким рукавом \"Шерри\"": {
         "name": "Платье с коротким рукавом \"Шерри\"",
+        "en_name": "Plat'e_s_korotkim_rukavom__Sherri_",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1626458380351.jpg",
@@ -4642,6 +4937,7 @@
     },
     "Синий костюм в пижамном стиле": {
         "name": "Синий костюм в пижамном стиле",
+        "en_name": "Sinij_kostjum_v_pizhamnom_stile",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1624623325198.jpg",
@@ -4654,6 +4950,7 @@
     },
     "Платье мини \"Маритта\" с бантом": {
         "name": "Платье мини \"Маритта\" с бантом",
+        "en_name": "Plat'e_mini__Maritta__s_bantom",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1622028965787.jpg",
@@ -4672,6 +4969,7 @@
     },
     "Платье-футляр \"Хаки\"": {
         "name": "Платье-футляр \"Хаки\"",
+        "en_name": "Plat'e-futljar__Haki_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1591707611932.jpg",
@@ -4687,6 +4985,7 @@
     },
     "Сиреневый укороченный топ": {
         "name": "Сиреневый укороченный топ",
+        "en_name": "Sirenevyj_ukorochennyj_top",
         "price": "2900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1626347021189.jpg",
@@ -4700,6 +4999,7 @@
     },
     "Платье-мини \"Бэби дол\"": {
         "name": "Платье-мини \"Бэби дол\"",
+        "en_name": "Plat'e-mini__Bebi_dol_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1626197317397.jpg",
@@ -4715,6 +5015,7 @@
     },
     "Голубое платье \"Бэби долл\"": {
         "name": "Голубое платье \"Бэби долл\"",
+        "en_name": "Goluboe_plat'e__Bebi_doll_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1626030088197.jpg",
@@ -4734,6 +5035,7 @@
     },
     "Белая юбка-миди из вискозы": {
         "name": "Белая юбка-миди из вискозы",
+        "en_name": "Belaja_jubka-midi_iz_viskozy",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625946085563.jpg",
@@ -4747,6 +5049,7 @@
     },
     "Красная юбка-миди из вискозы": {
         "name": "Красная юбка-миди из вискозы",
+        "en_name": "Krasnaja_jubka-midi_iz_viskozy",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625945413642.jpg",
@@ -4759,6 +5062,7 @@
     },
     "Летняя капсула MALINA Bonita": {
         "name": "Летняя капсула MALINA Bonita",
+        "en_name": "Letnjaja_kapsula_MALINA_Bonita",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625916691816.jpg",
@@ -4772,6 +5076,7 @@
     },
     "Черное мини-платье с воланом \"Брикет\"": {
         "name": "Черное мини-платье с воланом \"Брикет\"",
+        "en_name": "Chernoe_mini-plat'e_s_volanom__Briket_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto4/1624355577789.jpg",
@@ -4795,6 +5100,7 @@
     },
     "Лимонный костюм с шортами и топом": {
         "name": "Лимонный костюм с шортами и топом",
+        "en_name": "Limonnyj_kostjum_s_shortami_i_topom",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1622984475872.jpg",
@@ -4813,6 +5119,7 @@
     },
     "Мини-платье \"Сальвия\"": {
         "name": "Мини-платье \"Сальвия\"",
+        "en_name": "Mini-plat'e__Sal'vija_",
         "price": "7500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1625132374265.jpg",
@@ -4827,6 +5134,7 @@
     },
     "MALINA Bonita Лето 2021": {
         "name": "MALINA Bonita Лето 2021",
+        "en_name": "MALINA_Bonita_Leto_2021",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625561771128.jpg",
@@ -4839,6 +5147,7 @@
     },
     "Голубая блуза с открытыми плечами": {
         "name": "Голубая блуза с открытыми плечами",
+        "en_name": "Golubaja_bluza_s_otkrytymi_plechami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625165270064.jpg",
@@ -4852,6 +5161,7 @@
     },
     "New summer collection MALINA Bonita": {
         "name": "New summer collection MALINA Bonita",
+        "en_name": "New_summer_collection_MALINA_Bonita",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1625131445240.jpg",
@@ -4864,6 +5174,7 @@
     },
     "Красный трикотажный топ": {
         "name": "Красный трикотажный топ",
+        "en_name": "Krasnyj_trikotazhnyj_top",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1603881947828.jpg",
@@ -4878,6 +5189,7 @@
     },
     "Джинсовые шорты": {
         "name": "Джинсовые шорты",
+        "en_name": "Dzhinsovye_shorty",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1624623657127.jpg",
@@ -4892,6 +5204,7 @@
     },
     "Лимонная блуза \"Сальвия\"": {
         "name": "Лимонная блуза \"Сальвия\"",
+        "en_name": "Limonnaja_bluza__Sal'vija_",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1624612863373.jpg",
@@ -4904,6 +5217,7 @@
     },
     "Summer 2021 collection MALINA Bonita": {
         "name": "Summer 2021 collection MALINA Bonita",
+        "en_name": "Summer_2021_collection_MALINA_Bonita",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1624612197628.jpg",
@@ -4916,6 +5230,7 @@
     },
     "Красные брюки-клеш со шлицей": {
         "name": "Красные брюки-клеш со шлицей",
+        "en_name": "Krasnye_brjuki-klesh_so_shlitsej",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623864901217.jpg",
@@ -4928,6 +5243,7 @@
     },
     "Корсет из хлопкового шитья": {
         "name": "Корсет из хлопкового шитья",
+        "en_name": "Korset_iz_hlopkovogo_shit'ja",
         "price": "4900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623864477327.jpg",
@@ -4941,6 +5257,7 @@
     },
     "Платье-кроше голубое": {
         "name": "Платье-кроше голубое",
+        "en_name": "Plat'e-kroshe_goluboe",
         "price": "7900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1567517336963.jpg",
@@ -4953,6 +5270,7 @@
     },
     "Черный топ с кружевом \"Оливия\"": {
         "name": "Черный топ с кружевом \"Оливия\"",
+        "en_name": "Chernyj_top_s_kruzhevom__Olivija_",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623532553109.jpeg",
@@ -4965,6 +5283,7 @@
     },
     "Кремовая блуза с бантом \"Франси\"": {
         "name": "Кремовая блуза с бантом \"Франси\"",
+        "en_name": "Kremovaja_bluza_s_bantom__Fransi_",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623530854813.jpg",
@@ -4977,6 +5296,7 @@
     },
     "Розовая блуза с открытыми плечами": {
         "name": "Розовая блуза с открытыми плечами",
+        "en_name": "Rozovaja_bluza_s_otkrytymi_plechami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623447062221.jpg",
@@ -4989,6 +5309,7 @@
     },
     "Бронзовое платье в пол \"Селестия\"": {
         "name": "Бронзовое платье в пол \"Селестия\"",
+        "en_name": "Bronzovoe_plat'e_v_pol__Selestija_",
         "price": "15900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1623359364241.jpg",
@@ -5003,6 +5324,7 @@
     },
     "Мини-юбка \"Зеленое яблоко\"": {
         "name": "Мини-юбка \"Зеленое яблоко\"",
+        "en_name": "Mini-jubka__Zelenoe_jabloko_",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1620409199067.jpg",
@@ -5015,6 +5337,7 @@
     },
     "Золотой кроп-топ с пайетками": {
         "name": "Золотой кроп-топ с пайетками",
+        "en_name": "Zolotoj_krop-top_s_pajetkami",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1623102566766.jpg",
@@ -5028,6 +5351,7 @@
     },
     "Платье-футляр с вырезом \"Анжелика\"": {
         "name": "Платье-футляр с вырезом \"Анжелика\"",
+        "en_name": "Plat'e-futljar_s_vyrezom__Anzhelika_",
         "price": "5900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1611062995136.jpg",
@@ -5042,6 +5366,7 @@
     },
     "Платье в пол \"Голубой хрусталь\"": {
         "name": "Платье в пол \"Голубой хрусталь\"",
+        "en_name": "Plat'e_v_pol__Goluboj_hrustal'_",
         "price": "18500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1608071208445.png",
@@ -5057,6 +5382,7 @@
     },
     "Платье в пол \"Пудровый кварц\"": {
         "name": "Платье в пол \"Пудровый кварц\"",
+        "en_name": "Plat'e_v_pol__Pudrovyj_kvarts_",
         "price": "18500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1566566382835.jpg",
@@ -5071,6 +5397,7 @@
     },
     "Синий джемпер с воротником \"Гольф\"": {
         "name": "Синий джемпер с воротником \"Гольф\"",
+        "en_name": "Sinij_dzhemper_s_vorotnikom__Gol'f_",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1613033404854.jpg",
@@ -5084,6 +5411,7 @@
     },
     "Черная трикотажная юбка": {
         "name": "Черная трикотажная юбка",
+        "en_name": "Chernaja_trikotazhnaja_jubka",
         "price": "3900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1617372546527.jpg",
@@ -5098,6 +5426,7 @@
     },
     "Кружевное платье-футляр \"Амаретти\"": {
         "name": "Кружевное платье-футляр \"Амаретти\"",
+        "en_name": "Kruzhevnoe_plat'e-futljar__Amaretti_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1608031109111.jpg",
@@ -5112,6 +5441,7 @@
     },
     "Джемпер с цепочкой \"Пыльная роза\"": {
         "name": "Джемпер с цепочкой \"Пыльная роза\"",
+        "en_name": "Dzhemper_s_tsepochkoj__Pyl'naja_roza_",
         "price": "6000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1601551335677.jpg",
@@ -5125,6 +5455,7 @@
     },
     "Белая блуза-боди с объемным рукавом": {
         "name": "Белая блуза-боди с объемным рукавом",
+        "en_name": "Belaja_bluza-bodi_s_ob'emnym_rukavom",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1619473709530.jpg",
@@ -5139,6 +5470,7 @@
     },
     "Шорты бермуды \"Рептилия\"": {
         "name": "Шорты бермуды \"Рептилия\"",
+        "en_name": "Shorty_bermudy__Reptilija_",
         "price": "5500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1619439506456.jpg",
@@ -5152,6 +5484,7 @@
     },
     "Брючный комбинезон \"Цефея\"": {
         "name": "Брючный комбинезон \"Цефея\"",
+        "en_name": "Brjuchnyj_kombinezon__Tsefeja_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1619472955460.jpg",
@@ -5174,6 +5507,7 @@
     },
     "Свадебное платье-бюстье в пол": {
         "name": "Свадебное платье-бюстье в пол",
+        "en_name": "Svadebnoe_plat'e-bjust'e_v_pol",
         "price": "22000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1607714740846.jpg",
@@ -5196,6 +5530,7 @@
     },
     "Свадебное платье со шлейфом \"Винтаж\"": {
         "name": "Свадебное платье со шлейфом \"Винтаж\"",
+        "en_name": "Svadebnoe_plat'e_so_shlejfom__Vintazh_",
         "price": "32000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1607715351778.jpg",
@@ -5215,6 +5550,7 @@
     },
     "Свитер с контрастными полосами": {
         "name": "Свитер с контрастными полосами",
+        "en_name": "Sviter_s_kontrastnymi_polosami",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1618928918795.jpg",
@@ -5227,6 +5563,7 @@
     },
     "Платье-бюстье \"Аврора\" розовое": {
         "name": "Платье-бюстье \"Аврора\" розовое",
+        "en_name": "Plat'e-bjust'e__Avrora__rozovoe",
         "price": "15500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1595840336965.jpg",
@@ -5239,6 +5576,7 @@
     },
     "Платье-бюстье \"Джоанна\"": {
         "name": "Платье-бюстье \"Джоанна\"",
+        "en_name": "Plat'e-bjust'e__Dzhoanna_",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1603806581679.jpg",
@@ -5253,6 +5591,7 @@
     },
     "Платье \"Жемчужный румянец\"": {
         "name": "Платье \"Жемчужный румянец\"",
+        "en_name": "Plat'e__Zhemchuzhnyj_rumjanets_",
         "price": "34000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1618216352947.jpg",
@@ -5267,6 +5606,7 @@
     },
     "Черный корсет": {
         "name": "Черный корсет",
+        "en_name": "Chernyj_korset",
         "price": "6900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto3/1616170753800.jpg",
@@ -5289,6 +5629,7 @@
     },
     "Красная мини-юбка с карманами": {
         "name": "Красная мини-юбка с карманами",
+        "en_name": "Krasnaja_mini-jubka_s_karmanami",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1617720573019.jpg",
@@ -5301,6 +5642,7 @@
     },
     "Кожаные легинсы кофейного цвета": {
         "name": "Кожаные легинсы кофейного цвета",
+        "en_name": "Kozhanye_leginsy_kofejnogo_tsveta",
         "price": "3500",
         "img_paths": [
             "http://malinabonita.ru/upload/products/1700f7eaf40b8835ccdfe67274990ff9.jpeg",
@@ -5316,6 +5658,7 @@
     },
     "Красное платье в пол с декором": {
         "name": "Красное платье в пол с декором",
+        "en_name": "Krasnoe_plat'e_v_pol_s_dekorom",
         "price": "18500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1584397044327.jpg",
@@ -5331,6 +5674,7 @@
     },
     "Белая юбка с корсетным поясом": {
         "name": "Белая юбка с корсетным поясом",
+        "en_name": "Belaja_jubka_s_korsetnym_pojasom",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1614959821490.jpg",
@@ -5344,6 +5688,7 @@
     },
     "Черная блуза \"Амарант\"": {
         "name": "Черная блуза \"Амарант\"",
+        "en_name": "Chernaja_bluza__Amarant_",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1614959194017.jpg",
@@ -5356,6 +5701,7 @@
     },
     "Комбинезон с рукавом-колоколом": {
         "name": "Комбинезон с рукавом-колоколом",
+        "en_name": "Kombinezon_s_rukavom-kolokolom",
         "price": "10500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1608643732377.jpg",
@@ -5374,6 +5720,7 @@
     },
     "Черное платье \"Аллюр\" с воланом": {
         "name": "Черное платье \"Аллюр\" с воланом",
+        "en_name": "Chernoe_plat'e__Alljur__s_volanom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1604341489523.jpg",
@@ -5388,6 +5735,7 @@
     },
     "Голубое платье \"Аллюр\" с воланом": {
         "name": "Голубое платье \"Аллюр\" с воланом",
+        "en_name": "Goluboe_plat'e__Alljur__s_volanom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1604341312336.jpg",
@@ -5400,6 +5748,7 @@
     },
     "Красное платье \"Аллюр\" с воланом": {
         "name": "Красное платье \"Аллюр\" с воланом",
+        "en_name": "Krasnoe_plat'e__Alljur__s_volanom",
         "price": "9500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1596459795876.jpg",
@@ -5412,6 +5761,7 @@
     },
     "Кружевная блуза \"Жемчужина\"": {
         "name": "Кружевная блуза \"Жемчужина\"",
+        "en_name": "Kruzhevnaja_bluza__Zhemchuzhina_",
         "price": "6500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1613929886870.jpg",
@@ -5425,6 +5775,7 @@
     },
     "Платье в пол \"Саванна\"": {
         "name": "Платье в пол \"Саванна\"",
+        "en_name": "Plat'e_v_pol__Savanna_",
         "price": "22000",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1595839314121.jpg",
@@ -5440,6 +5791,7 @@
     },
     "Корсетное мини-платье \"Цветы\" розовое": {
         "name": "Корсетное мини-платье \"Цветы\" розовое",
+        "en_name": "Korsetnoe_mini-plat'e__Tsvety__rozovoe",
         "price": "11900",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1585151398006.jpg",
@@ -5452,6 +5804,7 @@
     },
     "Графитовое расклешенное пальто": {
         "name": "Графитовое расклешенное пальто",
+        "en_name": "Grafitovoe_raskleshennoe_pal'to",
         "price": "13500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1613563532278.jpg",
@@ -5465,6 +5818,7 @@
     },
     "Мини-платье с воланом \"Бургунди\"": {
         "name": "Мини-платье с воланом \"Бургунди\"",
+        "en_name": "Mini-plat'e_s_volanom__Burgundi_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1613427035217.jpg",
@@ -5478,6 +5832,7 @@
     },
     "Винное бархатное платье с кружевом": {
         "name": "Винное бархатное платье с кружевом",
+        "en_name": "Vinnoe_barhatnoe_plat'e_s_kruzhevom",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1607527166736.jpg",
@@ -5490,6 +5845,7 @@
     },
     "Бархатное платье \"Цветы\"": {
         "name": "Бархатное платье \"Цветы\"",
+        "en_name": "Barhatnoe_plat'e__Tsvety_",
         "price": "8500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1604869476808.jpg",
@@ -5502,6 +5858,7 @@
     },
     "Красная косуха": {
         "name": "Красная косуха",
+        "en_name": "Krasnaja_kosuha",
         "price": "26500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto2/1621633623244.jpg",
@@ -5517,6 +5874,7 @@
     },
     "Мини-юбка с золотыми пайетками": {
         "name": "Мини-юбка с золотыми пайетками",
+        "en_name": "Mini-jubka_s_zolotymi_pajetkami",
         "price": "4500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/photo/1609324754181.jpg",
@@ -5529,6 +5887,7 @@
     },
     "Бархатное платье со стразами Сваровски": {
         "name": "Бархатное платье со стразами Сваровски",
+        "en_name": "Barhatnoe_plat'e_so_strazami_Svarovski",
         "price": "11500",
         "img_paths": [
             "http://malinabonita.ru/upload/products//product/additionalPhoto1/1608634268514.jpg",

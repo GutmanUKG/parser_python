@@ -5,6 +5,8 @@ import time
 from bs4 import BeautifulSoup as bs
 import json
 from selenium.webdriver.common.action_chains import ActionChains
+from transliterate import translit, get_available_language_codes
+
 
 # Настройка
 options = webdriver.ChromeOptions()
@@ -52,6 +54,10 @@ def data_result(links):
          source_data  = driver.page_source
          soup = bs(source_data, 'lxml')
          title = soup.find('h3').text
+         en_name = translit(title,  language_code='ru', reversed=True)
+         en_name = en_name.replace(" ", "_")
+         en_name = en_name.replace("\"", "_")
+         en_name = en_name.replace(",", "")
          imgBox = soup.find_all('div', class_='preview relative')
          description = soup.find('div', class_='description').text
          imgs = []
@@ -62,6 +68,7 @@ def data_result(links):
 
          data[title] = {
             "name": title,
+             "en_name": en_name,
             "price": price,
             "img_paths": imgs,
              "description": description
